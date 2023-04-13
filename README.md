@@ -1,4 +1,4 @@
- #  Trabalhando com Poo Java
+ #  Primeiros passo com Poo Java
 
 
 ## Linguagem
@@ -12,4 +12,4 @@
 Aprimorando conhecimento em Poo primeiros passo em Poo, com pequeos projetos, para o desenvolvimento proprio.
 
 ### Objetivo
-* Aprender os conceitos, pratica o que foi aprendido, compartilha conhecimento. 
+* Aprender os conceitos, práticar o que foi aprendido, compartilhar conhecimento com os Dev. 
